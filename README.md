@@ -10,6 +10,12 @@ It's pretty self explanatory:
 2. `pip3 install -r requirements.txt`
 3. `python3 ./demo.py`
 
+## SmilerRyan's Notes to get it working
+1. Install python 3.11.7 x86 (included, non-admin is fine)
+2. Run the command: pip3 install -r requirements.txt
+3. Run the command: pip3 install pyasyncore
+4. Run the demogui.py file and login.
+
 ## Troubleshooting
 If you have any issues, please join [the Discord](https://discord.gg/BVvNukmfTC) and ask for help.
 
